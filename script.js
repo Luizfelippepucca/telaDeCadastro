@@ -101,10 +101,10 @@ function validar(){
        numero.value="";
        date.value = '';
        cpf.value = '';
-       telValido = '';
-       mailValido = '';
-       compValido = '';
-       msgValida = '';
+       tel.value = '';
+       mail.value = '';
+       comp.value = '';
+       msg.value = '';
     } 
     else if(nomeValido.length<10 )
     {
@@ -150,10 +150,10 @@ function validar(){
         numero.value="";
         date.value = '';
         cpf.value = '';
-        telValido = '';
-        mailValido = '';
-        compValido = '';
-        msgValida = '';
+        tel.value = '';
+        mail.value = '';
+        comp.value = '';
+        msg.value = '';
         
     }else if(compValido !== '' && msgValida === ''){
         console.log('Nome correto:' + nomeValido);
@@ -178,10 +178,10 @@ function validar(){
         numero.value="";
         date.value = '';
         cpf.value = '';
-        telValido = '';
-        mailValido = '';
-        compValido = '';
-        msgValida = '';
+        tel.value = '';
+        mail.value = '';
+        comp.value = '';
+        msg.value = '';
     }else if( compValido === '' && msgValida ===''){
         console.log('Nome correto:' + nomeValido);
         console.log('Cep correto:' + cepValido);
@@ -204,10 +204,10 @@ function validar(){
         numero.value="";
         date.value = '';
         cpf.value = '';
-        telValido = '';
-        mailValido = '';
-        compValido = '';
-        msgValida = '';
+        tel.value = '';
+        mail.value = '';
+        comp.value = '';
+        msg.value = '';
     }
 
    
