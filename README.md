@@ -21,7 +21,7 @@ Para cada campo validado apliquei um regra disponivel no código, é possivel a 
 através do console do seu navegador, tanto para os erros de campo, como quando os dados são enviados.
 
 #### Importante<br>
-##### campos de logradouro, bairro, estado, cidade estão desabilitados para usuário digitar, só são possiveis prencher<br>
+##### Campos de logradouro, bairro, estado, cidade estão desabilitados para usuário digitar, só são possiveis prencher<br>
 quando o cep é informado corretamente e de forma automatica os campos são preenchidos com suas respectivas informações.
 
 #### Acesse o projeto clicando em [Projeto](https://luizfelippepucca.github.io/telaDeCadastro/)
