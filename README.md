@@ -1,5 +1,5 @@
 # Formulário de cadastro
-Teste realizado para oportunidade de trabalho
+Projeto realizado para oportunidade de trabalho
 
 ## Projeto Responsivo </br>
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas Mobile<br>
