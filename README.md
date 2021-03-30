@@ -18,7 +18,7 @@ Ele informa logradouro, uf, cidade, bairro e esses campos são preenchidos autom
 
 ### Validações.
 Para cada campo validado apliquei um regra disponivel no código, é possivel a visualização das validações</br>
-através do console do seu navegador, tanto para os erros de campo, como quando os dados são enviados.
+através da aba console nas ferramentas de desenvolvedor do seu navegador, tanto para os erros de campo, como quando os dados são enviados.
 
 #### Importante<br>
 ##### Campos de logradouro, bairro, estado, cidade estão desabilitados para usuário digitar, só são possiveis prencher<br>
